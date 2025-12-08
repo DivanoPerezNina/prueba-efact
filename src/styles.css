@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	background: #f5f6fa;
+	color: #111827;
+	font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
+a {
+	color: inherit;
+}
